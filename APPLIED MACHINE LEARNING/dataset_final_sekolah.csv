@@ -1,0 +1,26 @@
+Lokasi,Total_Siswa,Total_Guru,Total_Kelas,Kelas_Rusak,Prediksi_Status
+Kec. Bontonompo (Negeri),4157,283,207,97,WASPADA (Berisiko)
+Kec. Bajeng (Negeri),5897,373,240,111,WASPADA (Berisiko)
+Kec. Pallangga (Negeri),12095,534,296,99,WASPADA (Berisiko)
+Kec. Somba Opu (Negeri),13180,635,280,111,WASPADA (Berisiko)
+Kec. Bontomarannu (Negeri),4801,237,138,32,AMAN
+Kec. Parang Loe (Negeri),1874,159,124,48,WASPADA (Berisiko)
+Kec. Tinggi Moncong (Negeri),2484,182,149,64,WASPADA (Berisiko)
+Kec. Bungaya (Negeri),1336,159,112,55,WASPADA (Berisiko)
+Kec. Tompobulu (Negeri),2601,216,140,37,AMAN
+Kec. Barombong (Negeri),4074,179,114,58,WASPADA (Berisiko)
+Kec. Biring Bulu (Negeri),2598,242,157,104,WASPADA (Berisiko)
+Kec. Tombolo Pao (Negeri),2619,198,163,62,WASPADA (Berisiko)
+Kec. Manuju (Negeri),1349,131,89,35,WASPADA (Berisiko)
+Kec. Bontolempangan (Negeri),1220,113,80,26,WASPADA (Berisiko)
+Kec. Pattallassang (Negeri),3825,174,108,35,WASPADA (Berisiko)
+Kec. Bontonompo Selatan (Negeri),2506,219,124,35,AMAN
+Kec. Parigi (Negeri),1030,108,81,42,WASPADA (Berisiko)
+Kec. Bajeng Barat (Negeri),2143,166,98,46,WASPADA (Berisiko)
+Kec. Bajeng (Swasta),912,39,46,0,AMAN
+Kec. Pallangga (Swasta),484,42,41,0,AMAN
+Kec. Somba Opu (Swasta),2783,192,119,11,AMAN
+Kec. Bontomarannu (Swasta),204,9,17,0,AMAN
+Kec. Tompobulu (Swasta),31,7,3,3,WASPADA (Berisiko)
+Kec. Tombolo Pao (Swasta),100,9,6,0,AMAN
+Kec. Manuju (Swasta),84,8,6,6,WASPADA (Berisiko)
