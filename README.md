@@ -1,5 +1,4 @@
-# Sistem Deteksi Dini Penurunan Performa Belajar Siswa   Berdasarkan Analisis Kualitas Infrastruktur Dan Kapasistas 
-Pengajar 
+# Sistem Deteksi Dini Penurunan Performa Belajar Siswa   Berdasarkan Analisis Kualitas Infrastruktur Dan Kapasistas Pengajar 
  🎓
 
 
